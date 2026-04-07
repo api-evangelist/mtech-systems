@@ -7,8 +7,7 @@ type: Index
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-tags:
-  - API
+tags: []
 created: '2025-02-24'
 modified: '2026-03-16'
 url: >-
@@ -21,8 +20,7 @@ apis:
       The industrys only full supply chain data management with Artificial Intelligence
       capabilities and Business Intelligence functionality features.
     humanURL: ' https://mtechsystems.io/'
-    tags:
-      - API
+    tags: []
     properties:
       - type: Documentation
         url: ' https://mtechsystems.io/'

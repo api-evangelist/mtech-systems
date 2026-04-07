@@ -1,8 +1,8 @@
 aid: mtech-systems
 name: MTech Systems
 description: >-
-  The industrys only full supply chain data management with Artificial
-  Intelligence capabilities and Business Intelligence functionality features. 
+  The industrys only full supply chain data management with Artificial Intelligence
+  capabilities and Business Intelligence functionality features.
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -18,9 +18,8 @@ apis:
   - aid: mtech-systems:mtech-systems
     name: MTech Systems
     description: >-
-      The industrys only full supply chain data management with Artificial
-      Intelligence capabilities and Business Intelligence functionality
-      features. 
+      The industrys only full supply chain data management with Artificial Intelligence
+      capabilities and Business Intelligence functionality features.
     humanURL: ' https://mtechsystems.io/'
     tags:
       - API

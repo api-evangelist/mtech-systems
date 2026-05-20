@@ -39,6 +39,8 @@ apis:
       - type: Help Center
         url: https://mtechsystems.io/help-center/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mtechsystemshq
   - type: Website
     url: https://mtechsystems.io/
   - type: Contact

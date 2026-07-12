@@ -1,0 +1,13 @@
+generated: '2026-07-11'
+method: searched
+probe: true
+source: https://mtechsystems.io/trust-center/
+url: https://mtechsystems.io/trust-center/
+certifications:
+- SOC 2
+evidence:
+- source: https://mtechsystems.io/trust-center/
+  keywords:
+  - soc2
+  - trust center
+  - compliance certification

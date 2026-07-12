@@ -39,6 +39,12 @@ apis:
       - type: Help Center
         url: https://mtechsystems.io/help-center/
 common:
+  - type: TrustCenter
+    url: security/mtech-systems-trust-center.yml
+  - type: DomainSecurity
+    url: security/mtech-systems-domain-security.yml
+  - url: https://mtechsystems.io/feed/
+    type: Blog
   - type: LinkedIn
     url: https://www.linkedin.com/company/mtechsystemshq
   - type: Website

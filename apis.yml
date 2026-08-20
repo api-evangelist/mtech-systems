@@ -21,6 +21,13 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mtech-systems.png
 tags:
+  - Artificial Intelligence
+  - Agriculture
+  - Business Intelligence
+  - Data Management
+  - Poultry
+  - Supply Chain
+tags_raw:
   - AI
   - Agriculture
   - Business Intelligence

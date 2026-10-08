@@ -69,6 +69,12 @@ apis:
       - type: Help Center
         url: https://mtechsystems.io/help-center/
 common:
+  - type: Plans
+    url: plans/mtech-systems-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/mtech-systems-rate-limits.yml
+  - type: FinOps
+    url: finops/mtech-systems-finops.yml
   - type: TrustCenter
     url: security/mtech-systems-trust-center.yml
   - type: DomainSecurity
